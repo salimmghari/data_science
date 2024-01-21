@@ -18,6 +18,14 @@ Developed by Salim Mghari
 
 ---
 
+### License:
+
+Proprietary License
+
+Salim Mghari 2024
+
+---
+
 ## Launch:
 
 > - `cd src/`
