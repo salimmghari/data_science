@@ -36,4 +36,3 @@ Salim Mghari 2024
 ### Contact:
 
 <mghari.963@gmail.com>  
-<a href="call:+212600981709">+212600981709</a>
