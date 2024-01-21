@@ -18,18 +18,18 @@ Developed by Salim Mghari
 
 ---
 
+## Launch:
+
+> - `cd src/`
+> - `pip install -r requirements.txt && python main.py`
+
+---
+
 ### License:
 
 Proprietary License
 
 Salim Mghari 2024
-
----
-
-## Launch:
-
-> - `cd src/`
-> - `pip install -r requirements.txt && python main.py`
 
 ---
 
